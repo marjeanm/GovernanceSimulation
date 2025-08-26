@@ -51,21 +51,8 @@ Use this doc to support:
 
 ---
 
-## 📌 Phase 3: Endpoint & Data Protection (Coming Soon)
 
-_(Placeholder for future memory chunk)_
 
----
 
-## 📁 Storage Location
 
-Recommend storing this in:
 
-- `/Forge_SIM/Reference_Pack/Framework_Crosswalks.md`
-    
-- Obsidian Vault: `NullCypher > Forge_SIMs > Governance_Reference`
-    
-- Notion Dashboard: FORGE SIM → References DB
-    
-
-Let me know when you’re ready to generate Phase 3.
